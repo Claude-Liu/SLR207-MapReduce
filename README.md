@@ -185,7 +185,7 @@ We can find that the split time and map time in first mapreduce are dominant. Th
 
 The map time can be reduced with more computing nodes and the split time is can not be greatly reduced because the communication bandwidth of the client node is limited. Generally, we speculate that more the overall time can be decreased with more node. It is a pity that we did not verify this through experiments.
 
-<img src="D:\IE\SLR\SLR207\mapreduce_time_distribution.png" alt="mapreduce_time_distribution" style="zoom:67%;" />
+![](mapreduce_time_distribution.png)
 
 
 
